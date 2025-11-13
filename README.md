@@ -1,10 +1,11 @@
 
 # Subscription Management Dashboard task
 
-**Public repo:** `subscription-dashboard-task`  # Name  : Akash
-# Contact : 8608841928
+**Public repo:** `subscription-dashboard-task` 
 
-## Project summary
+
+## Project summary     # Name  : Akash # Contact : 8608841928
+
 A mini SaaS admin dashboard that lets users subscribe to plans, view their active plan and manage their profile. Includes role-based authentication (user / admin), subscription management endpoints, and a responsive frontend.
 
 
