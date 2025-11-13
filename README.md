@@ -77,6 +77,7 @@ npm install
 3 .Create .env (based on .env.example) and set:
 
 VITE_API_URL=http://localhost:5000/api
+
 VITE_APP_DEFAULTAUTH=jwt
 
 
